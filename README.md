@@ -28,8 +28,8 @@ In your computer's Downloads folder, double-click GitHub Desktop.<br/>
 In the pop-up window, click Install.<br/>
 After the program has been installed, click Run.<br/>
 
+<h2> Setting up Github Desktop</h2>
 
-    <h2>Setting up GitHub Desktop</h2>
 After you've launched GitHub Desktop, you can choose to set up GitHub Desktop right away, or you can skip the setup process.</p>
 
 
