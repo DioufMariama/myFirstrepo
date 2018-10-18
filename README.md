@@ -21,7 +21,7 @@ Visit the GitHub Desktop download page.<br/>
 
 Choose Download for Windows.<br/>
 
-<mark Note: If you are a network administrator, you can use the GitHub Desktop Windows installer package to deploy GitHub Desktop.</mark><br/>
+<mark> Note: If you are a network administrator, you can use the GitHub Desktop Windows installer package to deploy GitHub Desktop.</mark><br/>
 
 In your computer's Downloads folder, double-click GitHub Desktop.<br/>
 
